@@ -16,5 +16,6 @@ public class Controller {
 
     public void test1(){
         System.out.println("HHHHHHH");
+        System.out.println();
     }
 }
